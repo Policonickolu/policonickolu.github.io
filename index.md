@@ -42,6 +42,18 @@
   <img src="images/me/8.png" width="100"/>
 </div>
 
+[Ricoh Reprographie](https://www.ricoh.fr/)
+<div>
+  <img src="images/ricoh/1.png" width="100"/>
+  <img src="images/ricoh/2.png" width="100"/>
+  <img src="images/ricoh/3.png" width="100"/>
+  <img src="images/ricoh/4.png" width="100"/>
+  <img src="images/ricoh/5.png" width="100"/>
+  <img src="images/ricoh/6.png" width="100"/>
+  <img src="images/ricoh/7.png" width="100"/>
+  <img src="images/ricoh/8.png" width="100"/>
+</div>
+
 ---
 
 ### Academic
@@ -53,7 +65,7 @@
   <img src="images/contacts/3.png" width="200"/>
   <img src="images/contacts/4.png" width="200"/>
   <img src="images/contacts/5.png" width="200"/>
-  <img src="images/contacts/6.png" width="200"/>
+  <img src="images/contacts/7.png" width="200"/>
 </div>
 
 
@@ -65,8 +77,7 @@
   <img src="images/am/4.png" width="200"/>
   <img src="images/am/5.png" width="200"/>
   <img src="images/am/6.png" width="200"/>
+  <img src="images/am/7.png" width="200"/>
 </div>
 
 - [Algorithme recherche itinéraire - Métro Paris](http://heidyby.free.fr/projects/metro-paris/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
