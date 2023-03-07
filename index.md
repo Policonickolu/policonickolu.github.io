@@ -6,13 +6,13 @@
 
 [Paplar](/sample_page)
 <img src="images/paplar/1.png" width="100"/>
-<img src="images/paplar/2.png"/>
-<img src="images/paplar/3.png"/>
-<img src="images/paplar/4.png"/>
-<img src="images/paplar/5.png"/>
-<img src="images/paplar/6.png"/>
-<img src="images/paplar/7.png"/>
-<img src="images/paplar/8.png"/>
+<img src="images/paplar/2.png" width="100"/>
+<img src="images/paplar/3.png" width="100"/>
+<img src="images/paplar/4.png" width="100"/>
+<img src="images/paplar/5.png" width="100"/>
+<img src="images/paplar/6.png" width="100"/>
+<img src="images/paplar/7.png" width="100"/>
+<img src="images/paplar/8.png" width="100"/>
 
 ---
 
