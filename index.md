@@ -43,9 +43,9 @@
   <img src="images/me/7.png" width="100"/>
   <img src="images/me/8.png" width="100"/>
 </div>
-- Application de gestion des achats de produits - React/JavaScript (2021)
-- Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)
-- Back-office interne du groupe - PHP puis JavaScript (2015 - 2017)
+- [Application de gestion des achats de produits - React/JavaScript (2021)]
+- [Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)]
+- [Back-office interne du groupe - PHP puis JavaScript (2015 - 2017)]
 
 [Ricoh - Reprographie (2014)](https://www.ricoh.fr/)
 <div>
