@@ -36,8 +36,8 @@
   <img src="images/me/8.png" width="100"/>
 </div>
 
-- Web App mobile - Achat Rungis (2023)
-- Application de gestion des achats de produits - React/JavaScript (2021)
+- Web App mobile - Achat Rungis - MUI/React/JavaScript/Meteor (2023)
+- Application de gestion des achats de produits - React/JavaScript/Meteor (2021)
 - Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)
 - Back-office interne du groupe - PHP puis JavaScript (2015 - 2017)
 
