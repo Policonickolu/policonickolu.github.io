@@ -22,17 +22,10 @@
 
 ### Web Development
 
-[Konkrete (2022)](https://app.konkretedao.com/)
-<div>
-  <img src="images/konkrete/1.png" width="400"/>
-</div>
-
-[Marché Entrepôt](https://www.marcheentrepot.fr/)
+[Marché Entrepôt (2015 - 2023)](https://www.marcheentrepot.fr/)
 <div>
   <img src="images/me/1.png" width="400"/>
 </div>
-
-Web App mobile - Achat Rungis (2022)
 <div>
   <img src="images/me/2.png" width="100"/>
   <img src="images/me/3.png" width="100"/>
@@ -42,10 +35,15 @@ Web App mobile - Achat Rungis (2022)
   <img src="images/me/7.png" width="100"/>
   <img src="images/me/8.png" width="100"/>
 </div>
-
+- Web App mobile - Achat Rungis (2023)
 - Application de gestion des achats de produits - React/JavaScript (2021)
 - Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)
 - Back-office interne du groupe - PHP puis JavaScript (2015 - 2017)
+
+[Konkrete (2022)](https://app.konkretedao.com/)
+<div>
+  <img src="images/konkrete/1.png" width="400"/>
+</div>
 
 [Ricoh - Reprographie (2014)](https://www.ricoh.fr/)
 <div>
