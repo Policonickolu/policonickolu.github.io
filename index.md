@@ -46,7 +46,27 @@
 
 ### Academic
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+[Carnet de contacts macOS - tout premier projet (2009)]
+<div>
+  <img src="images/contacts/1.png" width="200"/>
+  <img src="images/contacts/2.png" width="200"/>
+  <img src="images/contacts/3.png" width="200"/>
+  <img src="images/contacts/4.png" width="200"/>
+  <img src="images/contacts/5.png" width="200"/>
+  <img src="images/contacts/6.png" width="200"/>
+</div>
+
+
+[Outils Assurance Maladie - cas pratique de master sur 6 mois (2013)]
+<div>
+  <img src="images/am/1.png" width="200"/>
+  <img src="images/am/2.png" width="200"/>
+  <img src="images/am/3.png" width="200"/>
+  <img src="images/am/4.png" width="200"/>
+  <img src="images/am/5.png" width="200"/>
+  <img src="images/am/6.png" width="200"/>
+</div>
+
+- [Algorithme recherche itinéraire - Métro Paris](http://heidyby.free.fr/projects/metro-paris/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
