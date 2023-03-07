@@ -4,7 +4,7 @@
 
 ### Mobile Development 
 
-[Paplar 2022](https://paplar.co)
+[Paplar (2022)](https://paplar.co)
 <div>
   <img src="images/paplar/1.png" width="100"/>
   <img src="images/paplar/2.png" width="100"/>
@@ -22,13 +22,13 @@
 
 ### Web Development
 
-[Konkrete 2022](https://app.konkretedao.com/)
+[Konkrete (2022)](https://app.konkretedao.com/)
 <div>
   <img src="images/konkrete/1.png" width="400"/>
 </div>
 
 
-[Marché Entrepôt 2022](https://www.marcheentrepot.fr/)
+[Marché Entrepôt - Web App mobile - Achat Rungis (2022)](https://www.marcheentrepot.fr/)
 <div>
   <img src="images/me/1.png" width="400"/>
 </div>
@@ -42,7 +42,7 @@
   <img src="images/me/8.png" width="100"/>
 </div>
 
-[Ricoh Reprographie 2014](https://www.ricoh.fr/)
+[Ricoh - Reprographie (2014)](https://www.ricoh.fr/)
 <div>
   <img src="images/ricoh/1.png" width="200"/>
   <img src="images/ricoh/2.png" width="200"/>
