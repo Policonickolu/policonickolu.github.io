@@ -63,17 +63,6 @@
 - Cryptographie : Programme SSL MD5/DES (2020)
 - Projets graphiques avec rendus 2D/3D
 
-#### Carnet de contacts - copie de macOS - tout premier projet de programmation (2009)
-<div>
-  <img src="images/contacts/1.png" width="200"/>
-  <img src="images/contacts/2.png" width="200"/>
-  <img src="images/contacts/3.png" width="200"/>
-  <img src="images/contacts/4.png" width="200"/>
-  <img src="images/contacts/5.png" width="200"/>
-  <img src="images/contacts/6.png" width="200"/>
-</div>
-
-
 #### Assurance Maladie - cas pratique de master sur 6 mois (2013)
 <div>
   <img src="images/am/1.png" width="200"/>
@@ -82,6 +71,16 @@
   <img src="images/am/4.png" width="200"/>
   <img src="images/am/5.png" width="200"/>
   <img src="images/am/6.png" width="200"/>
+</div>
+
+#### Carnet de contacts - copie de macOS - tout premier projet de programmation (2009)
+<div>
+  <img src="images/contacts/1.png" width="200"/>
+  <img src="images/contacts/2.png" width="200"/>
+  <img src="images/contacts/3.png" width="200"/>
+  <img src="images/contacts/4.png" width="200"/>
+  <img src="images/contacts/5.png" width="200"/>
+  <img src="images/contacts/6.png" width="200"/>
 </div>
 
 #### Projets divers
