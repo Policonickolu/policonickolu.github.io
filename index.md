@@ -2,7 +2,7 @@
 
 ---
 
-### Mobile Development 
+### Developpement mobile
 
 [Paplar - Application mobile Flutter/Dart (2022)](https://paplar.co)
 <div>
@@ -20,7 +20,7 @@
 
 ---
 
-### Web Development
+### Developpement Web
 
 [Marché Entrepôt (2015 - 2023)](https://www.marcheentrepot.fr/)
 <div>
@@ -61,7 +61,7 @@
 
 ---
 
-### Academic Projects
+### Projects académiques
 
 #### Ecole 42
 - 42sh : Shell complet en C, projet de 6 mois à temps plein (2019)
@@ -79,7 +79,7 @@
   <img src="images/am/5.png" width="200"/>
   <img src="images/am/6.png" width="200"/>
 </div>
-----
+
 #### Carnet de contacts - copie de macOS - tout premier projet de programmation (2009)
 <div>
   <img src="images/contacts/1.png" width="200"/>
