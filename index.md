@@ -4,8 +4,7 @@
 
 ### Mobile Development 
 
-#### [Paplar (2022)](https://paplar.co)
-#### Application mobile Flutter/Dart pour iOS et Android
+[Paplar - Application mobile Flutter/Dart (2022)](https://paplar.co)
 <div>
   <img src="images/paplar/1.png" width="100"/>
   <img src="images/paplar/2.png" width="100"/>
@@ -27,7 +26,6 @@
 <div>
   <img src="images/konkrete/1.png" width="400"/>
 </div>
-
 
 [Marché Entrepôt](https://www.marcheentrepot.fr/)
 - Web App mobile - Achat Rungis (2022)
