@@ -5,6 +5,7 @@
 ### Mobile Development 
 
 [Paplar (2022)](https://paplar.co)
+#### Application mobile Flutter/Dart pour iOS et Android
 <div>
   <img src="images/paplar/1.png" width="100"/>
   <img src="images/paplar/2.png" width="100"/>
@@ -28,7 +29,8 @@
 </div>
 
 
-[Marché Entrepôt - Web App mobile - Achat Rungis (2022)](https://www.marcheentrepot.fr/)
+[Marché Entrepôt](https://www.marcheentrepot.fr/)
+- Web App mobile - Achat Rungis (2022)
 <div>
   <img src="images/me/1.png" width="400"/>
 </div>
@@ -41,6 +43,9 @@
   <img src="images/me/7.png" width="100"/>
   <img src="images/me/8.png" width="100"/>
 </div>
+- Application de gestion des achats de produits - React/JavaScript (2021)
+- Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)
+- Back-office interne du groupe - PHP puis JavaScript (2015 - 2017)
 
 [Ricoh - Reprographie (2014)](https://www.ricoh.fr/)
 <div>
@@ -51,6 +56,7 @@
   <img src="images/ricoh/5.png" width="200"/>
   <img src="images/ricoh/6.png" width="200"/>
 </div>
+
 
 ---
 
