@@ -44,14 +44,14 @@
 
 [Ricoh Reprographie](https://www.ricoh.fr/)
 <div>
-  <img src="images/ricoh/1.png" width="100"/>
-  <img src="images/ricoh/2.png" width="100"/>
-  <img src="images/ricoh/3.png" width="100"/>
-  <img src="images/ricoh/4.png" width="100"/>
-  <img src="images/ricoh/5.png" width="100"/>
-  <img src="images/ricoh/6.png" width="100"/>
-  <img src="images/ricoh/7.png" width="100"/>
-  <img src="images/ricoh/8.png" width="100"/>
+  <img src="images/ricoh/1.png" width="200"/>
+  <img src="images/ricoh/2.png" width="200"/>
+  <img src="images/ricoh/3.png" width="200"/>
+  <img src="images/ricoh/4.png" width="200"/>
+  <img src="images/ricoh/5.png" width="200"/>
+  <img src="images/ricoh/6.png" width="200"/>
+  <img src="images/ricoh/7.png" width="200"/>
+  <img src="images/ricoh/8.png" width="200"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@
 </div>
 
 
-- [Assurance Maladie - cas pratique de master sur 6 mois (2013)]
+#### Assurance Maladie - cas pratique de master sur 6 mois (2013)
 <div>
   <img src="images/am/1.png" width="200"/>
   <img src="images/am/2.png" width="200"/>
