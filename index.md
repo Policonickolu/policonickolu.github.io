@@ -25,7 +25,7 @@
 [Konkrete](https://app.konkretedao.com/)
 <div>
   <img src="images/konkrete/1.png" width="400"/>
-</div
+</div>
 
 ### Academic
 
