@@ -35,6 +35,7 @@
   <img src="images/me/7.png" width="100"/>
   <img src="images/me/8.png" width="100"/>
 </div>
+
 - Web App mobile - Achat Rungis (2023)
 - Application de gestion des achats de produits - React/JavaScript (2021)
 - Plateforme de commande de marchandises à destination des petits commerces - React/JavaScript (2017)
