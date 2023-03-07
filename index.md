@@ -58,7 +58,7 @@
 
 ### Academic
 
-[Carnet de contacts macOS - tout premier projet (2009)]
+[Carnet de contacts macOS, tout premier projet (2009)]
 <div>
   <img src="images/contacts/1.png" width="200"/>
   <img src="images/contacts/2.png" width="200"/>
@@ -69,7 +69,7 @@
 </div>
 
 
-[Outils Assurance Maladie - cas pratique de master sur 6 mois (2013)]
+[Outils Assurance Maladie cas, pratique de master sur 6 mois (2013)]
 <div>
   <img src="images/am/1.png" width="200"/>
   <img src="images/am/2.png" width="200"/>
@@ -80,4 +80,4 @@
   <img src="images/am/7.png" width="200"/>
 </div>
 
-- [Algorithme recherche itinéraire - Métro Paris](http://heidyby.free.fr/projects/metro-paris/)
+- [Algorithme recherche itinéraire, Métro Paris](http://heidyby.free.fr/projects/metro-paris/)
