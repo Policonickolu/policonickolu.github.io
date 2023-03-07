@@ -32,6 +32,12 @@
 <div>
   <img src="images/me/1.png" width="400"/>
 </div>
+<div>
+  <img src="images/me/1.png" width="100"/>
+  <img src="images/me/2.png" width="100"/>
+  <img src="images/me/3.png" width="100"/>
+  <img src="images/me/4.png" width="100"/>
+</div>
 
 ### Academic
 
