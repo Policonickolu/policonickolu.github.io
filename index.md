@@ -31,7 +31,8 @@
 <div>
   <img src="images/me/1.png" width="400"/>
 </div>
-- Web App mobile - Achat Rungis (2022)
+
+Web App mobile - Achat Rungis (2022)
 <div>
   <img src="images/me/2.png" width="100"/>
   <img src="images/me/3.png" width="100"/>
