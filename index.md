@@ -58,7 +58,7 @@
 
 ### Academic
 
-- [Carnet de contacts macOS - tout premier projet (2009)]
+#### Carnet de contacts macOS - tout premier projet (2009)
 <div>
   <img src="images/contacts/1.png" width="200"/>
   <img src="images/contacts/2.png" width="200"/>
