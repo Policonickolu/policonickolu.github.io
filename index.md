@@ -46,6 +46,8 @@
   <img src="images/konkrete/1.png" width="400"/>
 </div>
 
+
+
 [Ricoh - Reprographie (2014)](https://www.ricoh.fr/)
 <div>
   <img src="images/ricoh/1.png" width="200"/>
