@@ -42,6 +42,8 @@
   <img src="images/me/8.png" width="100"/>
 </div>
 
+---
+
 ### Academic
 
 - [Project 2 Title](http://example.com/)
