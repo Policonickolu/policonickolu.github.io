@@ -77,4 +77,6 @@
   <img src="images/am/6.png" width="200"/>
 </div>
 
+#### Projets divers
 - [Algorithme recherche itinéraire - Métro Paris](http://heidyby.free.fr/projects/metro-paris/)
+- [Marquage de texte pour Machine Learning](http://heidyby.free.fr/projects/doctrine/)
