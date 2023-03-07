@@ -4,7 +4,7 @@
 
 ### Mobile Development 
 
-[Paplar](/sample_page)
+[Paplar](https://paplar.co)
 <div>
 <img src="images/paplar/1.png" width="100"/>
 <img src="images/paplar/2.png" width="100"/>
