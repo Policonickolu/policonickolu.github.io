@@ -5,15 +5,14 @@
 ### Mobile Development 
 
 [Paplar](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/paplar/1.jpg?raw=true"/>
+<img src="images/paplar/2.jpg?raw=true"/>
+<img src="images/paplar/3.jpg?raw=true"/>
+<img src="images/paplar/4.jpg?raw=true"/>
+<img src="images/paplar/5.jpg?raw=true"/>
+<img src="images/paplar/6.jpg?raw=true"/>
+<img src="images/paplar/7.jpg?raw=true"/>
+<img src="images/paplar/8.jpg?raw=true"/>
 
 ---
 
