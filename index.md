@@ -39,6 +39,7 @@
   <img src="images/me/5.png" width="100"/>
   <img src="images/me/6.png" width="100"/>
   <img src="images/me/7.png" width="100"/>
+  <img src="images/me/8.png" width="100"/>
 </div>
 
 ### Academic
