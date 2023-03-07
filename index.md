@@ -54,9 +54,16 @@
 
 ---
 
-### Academic
+### Academic Projects
 
-#### Carnet de contacts - copie de macOS - tout premier projet (2009)
+#### Ecole 42
+- 42sh : Shell complet en C, projet de 6 mois à temps plein (2019)
+- Matcha : Site de rencontre en ReactJS/JavaScript, avec algo de matching et chat en temps réel, (2019)
+- Corewar : Programme d'éxecution de jeux d'instructions (2020)
+- Cryptographie : Programme SSL MD5/DES (2020)
+- Projets graphiques avec rendus 2D/3D
+
+#### Carnet de contacts - copie de macOS - tout premier projet de programmation (2009)
 <div>
   <img src="images/contacts/1.png" width="200"/>
   <img src="images/contacts/2.png" width="200"/>
